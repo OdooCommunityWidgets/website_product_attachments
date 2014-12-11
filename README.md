@@ -1,11 +1,11 @@
 website_product_attachments
 ===========================
-Website Product Attachments stores multiple product attachments/files in a tab: 'Product Attachment' under Sales >> Product. This module is designed to store product manuals and any other files that you would like your users to be able to download from the product page.
+Website Product Attachments stores multiple product attachments/files in a tab: 'Product Attachments' under Sales >> Product. This module is designed to store product manuals and any other files that you would like your users to be able to download from the product page.
 
 Website Product Attachments
 
 <H4>Please use the 8.0 branch:</H4> 
-    sudo git clone -b 8.0 https://github.com/OdooCommunityWidgets/twebsite_product_attachments.git.git
+    sudo git clone -b 8.0 https://github.com/OdooCommunityWidgets/website_product_attachments.git
 This will provide you with the latest working 'stable' version of the module built for the 8.0 branch. Please be advised this module is still under development.
 
 <H3>Frontend Demo:</H3>

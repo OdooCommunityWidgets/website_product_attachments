@@ -2,6 +2,8 @@ website_product_attachments
 ===========================
 Website Product Attachments stores multiple product attachments/files in a tab: 'Product Attachments' under Sales >> Product. This module is designed to store product manuals and any other files that you would like your users to be able to download from the product page.
 
+<H1>Work in progress - This module is under construction</H1>
+
 Website Product Attachments
 
 <H4>Please use the 8.0 branch:</H4> 
